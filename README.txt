@@ -1,14 +1,10 @@
-Hamza Ghosheh
-CPSC 350-03
-Elia Eiroa Lledo
-Student ID: 2401925
 10 February 2023
 
 All running files: RobberMain.cpp, Translaator.cpp, Model.cpp, Model.h, Translator.h, fileProcessor.cpp, fileProcessor.h, Translation.html
 
 Line needed to run: g++ *.cpp -o e.exe; ./e.exe
 
-Resources: Went to Office Hours; Ponthea Zahraii, Shravan Dhanasekaran, Noah Fuery, Arman Siddiqui, Ryan Shihabi, Zain Awais
+Resources: Ponthea Zahraii, Shravan Dhanasekaran, Noah Fuery, Arman Siddiqui, Ryan Shihabi, Zain Awais
 
 Links: https://www.quora.com/In-C++-how-can-I-input-strings-with-blank-spaces, https://www.geeksforgeeks.org/getline-string-c/, 
 https://www.tutorialspoint.com/program-to-loop-on-every-character-in-string-in-cplusplus#:~:text=Here%20in%20this%20program%20we,()%20function%20of%20string%20object.,
