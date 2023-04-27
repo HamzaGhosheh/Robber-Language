@@ -1,5 +1,7 @@
 10 February 2023
 
+Description: The objective of this project was build a program that translates American English text stored in a plain text file to Robber Language/ Rövarspråket. The use of an HTML file was required as well to display the desired translation and output.
+
 All running files: RobberMain.cpp, Translaator.cpp, Model.cpp, Model.h, Translator.h, fileProcessor.cpp, fileProcessor.h, Translation.html
 
 Line needed to run: g++ *.cpp -o e.exe; ./e.exe
